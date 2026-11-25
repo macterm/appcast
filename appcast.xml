@@ -1447,15 +1447,15 @@
       <enclosure url="https://github.com/thdxg/macterm/releases/download/v1.34.0-beta.2/Macterm-1.34.0-beta.2.dmg" type="application/octet-stream" sparkle:edSignature="EoLOxRyrVY5OGaap+6RRGUTIIfo9iio4b8VwCtI2XwWx9ZNOQTa7BeVg3coSAavsDRAyIek0YRBcYIfMVMGABg==" length="28129897" />
     </item>
     <item>
-      <title>Macterm 1.33.2-tip.298 (tip)</title>
-      <pubDate>Wed, 25 Nov 2026 20:15:41 +0000</pubDate>
+      <title>Macterm 1.33.2-tip.299 (tip)</title>
+      <pubDate>Wed, 25 Nov 2026 20:40:30 +0000</pubDate>
       <sparkle:channel>tip</sparkle:channel>
-      <sparkle:version>1.33.2.9999.298</sparkle:version>
-      <sparkle:shortVersionString>1.33.2-tip.298</sparkle:shortVersionString>
+      <sparkle:version>1.33.2.9999.299</sparkle:version>
+      <sparkle:shortVersionString>1.33.2-tip.299</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://macterm.thdxg.dev/notes/tip.html</sparkle:releaseNotesLink>
       <link>https://github.com/macterm/macterm/releases/tag/tip</link>
-      <enclosure url="https://github.com/macterm/macterm/releases/download/tip/Macterm-1.33.2-tip.298.dmg" type="application/octet-stream" sparkle:edSignature="c8fDcVCegP4Z5IOqqq2NWE1zj10OjzzhjrzHP/sFhmWP2XnxYqpcfA8nQREdbSY+Ob4GdIWyIHnLgZar3VShDw==" length="38343080" />
+      <enclosure url="https://github.com/macterm/macterm/releases/download/tip/Macterm-1.33.2-tip.299.dmg" type="application/octet-stream" sparkle:edSignature="K08TdmrPj7wQ32EPapr3qfhKl1FDqHI3488vLy2loEGOax7F/fcVBh9Vieb8EEeglQaxQTpbaDamlCn+b6l0Dg==" length="38370764" />
     </item>
   </channel>
 </rss>
